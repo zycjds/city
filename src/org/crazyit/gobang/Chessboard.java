@@ -70,6 +70,7 @@ public class Chessboard {
 		this.board[posX][posY] = chessman;
 	}
 
+	
 	/**
 	 * ∑µªÿ∆Â≈Ã
 	 * 
